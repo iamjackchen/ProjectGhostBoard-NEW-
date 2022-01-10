@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PCBFootprints)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints/Type-C.pretty)(options "")(descr ""))
+)

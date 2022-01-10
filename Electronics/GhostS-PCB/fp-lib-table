@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name kicad-keyboard-parts)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints/kicad-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints/Type-C.pretty)(options "")(descr ""))
+  (lib (name PCBFootprints)(type KiCad)(uri /home/jackdevspace/Documents/GhostS/Electronics/PCBFootprints)(options "")(descr ""))
+)
