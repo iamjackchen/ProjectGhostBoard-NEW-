@@ -22,7 +22,7 @@ Here were my original design blueprints:
 
 <br/>
 
-The design has evolved a little (along with my knowledge of embedded systems 😂) but the general principle remains the same. A 75%-ish layout with PCB-mounted low profile switches (PG1350 - I'm using the brown/tactile variant) and white multi-level backlight. No disgusting rgb. Originally when the PG1350 line was released I tried to make this the first true low-profile wireless keyboard on the market but obviously that didn't happen lmao. The layout I eventually settled for is below:
+The design has evolved a little (along with my knowledge of embedded systems and keyboard assembly 😂) but the general principle remains the same. A 75%-ish layout with PCB-mounted low profile switches (PG1350 - I'm using the brown/tactile variant) and white multi-level backlight. No disgusting rgb. Originally when the PG1350 line was released I tried to make this the first true low-profile wireless keyboard on the market but obviously that didn't happen lmao. The layout I eventually settled for is below:
 
 <br/>
 
