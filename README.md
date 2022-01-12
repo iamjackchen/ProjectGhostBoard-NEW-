@@ -78,3 +78,7 @@ This is a demo of a proof of concept that my parents made me build before they w
 <br/>
 
 [![Alt text](https://img.youtube.com/vi/-FnGQFiSdFY/0.jpg)](https://youtu.be/-FnGQFiSdFY)
+
+![alt text](https://raw.githubusercontent.com/iamjackchen/ProjectGhostBoard-NEW-/main/Media/ProofOfConcept.jpg)
+
+
