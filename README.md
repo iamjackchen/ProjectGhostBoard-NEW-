@@ -42,7 +42,7 @@ The software that makes all of this come together is [QMK](https://github.com/qm
 I havent gotten far enough to worry too much about the physical enclosure and keyboard assembly but I will have (hopefully) some CAD files, screenshots, and renders hanging out in this repo soon!! As of now I am aware that the PG1350 requires a thinner (1.2mm) plate and the stabilisers are mounted to the PCB (with plate cutouts needed). 
 
 <br/>
-If you've read this far, thank you so much for taking interest, and I hope to bear good news of progress soon. Below is a gallery of certain snippets of this awesome journey. 
+If you've read this far, thank you so much for taking interest, and I hope to bear good news of progress soon. Below is a gallery of certain snippets from this awesome journey. 
 
 
 
